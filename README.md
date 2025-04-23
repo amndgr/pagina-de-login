@@ -27,7 +27,7 @@ Este projeto é uma **página de login estilizada** utilizando apenas **HTML** e
 
 ## 📸 Exemplo
 
-(print_login.png)
+![Print da página de login](print_login.png)
 
 ## 🎓 Propósito Educacional
 
